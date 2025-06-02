@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on the estimating the effect of sports betting legalization on state unemployment rates.
 - 🗺️ I'm currently learning statistics and machine learning at a deeper level.
-- ⚡ Fun fact: I have never eaten a KitKat before!
+- 🍫 Fun fact: I have never eaten a KitKat before!
 - 📫 How to reach me: kevinphan630@gmail.com (LinkedIn also works)
